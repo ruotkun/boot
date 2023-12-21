@@ -116,7 +116,10 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-body {font-family: Arial, Helvetica, sans-serif;}
+body {font-family: Arial, Helvetica, sans-serif;
+
+text-align: center;
+}
 
 /* Full-width input fields */
 input[type=text], input[type=password] {
@@ -240,7 +243,7 @@ span.psw {
 </head>
 <body>
 
-<h2>Modal Login Form</h2>
+<h2>Project practice Login Form</h2>
 
 <button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Login</button>
 

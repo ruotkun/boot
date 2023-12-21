@@ -52,9 +52,6 @@
        </div>
      </nav>
 
-
-
-
      <div class="container info">
        <div class="row">
 

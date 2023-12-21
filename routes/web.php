@@ -24,3 +24,8 @@ route::get('index', function(){
 route::get('home', function(){
     return view('home');
 });
+
+Route::get('/posts', '\App\Http\Controllers\PostController@index');
+Route::get('/student', '\App\Http\Controllers\StudentController@index');
+
+
